@@ -6,7 +6,7 @@ In this I have used Java for creating the interface for the chef and client. And
 
 For starting the project, Fisrt create a virtual enviroment for the python Lib's in the *requirement.txt* file.
 
-``` cmd
+```
 python -m venv ./venv
 ```
 
